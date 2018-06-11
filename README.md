@@ -1,2 +1,2 @@
 # MagicalYLiu.github.io
-github pages
+I will try to record my life.
